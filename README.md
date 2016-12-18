@@ -7,7 +7,7 @@ In order to show this affection I bring this Chrome Extension that replaces almo
 Don't worry, is nothing permanent. You just need to realod your page and everything will be back to normal.
 
 ## Getting it
-Simply download it from the <a href="https://chrome.google.com/webstore/detail/lbcakgcpbinaifejpmgcfboofkdbmkjj/publish-accepted" target="_blank">Chrome Web Store</a> and install it as any other extension. 
+Simply download it from the <a href="https://chrome.google.com/webstore/detail/we-love-katya/lbcakgcpbinaifejpmgcfboofkdbmkjj" target="_blank">Chrome Web Store</a> and install it as any other extension. 
 
 
 ## How does it work?
