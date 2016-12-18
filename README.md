@@ -1,4 +1,4 @@
-# WeLoveKatya
+# We Love Katya
 
 ## Overview
 <a href="https://en.wikipedia.org/wiki/Katya_Zamolodchikova" target="_blank">Yekaterina Petrovna Zamolodchikova</a> (
