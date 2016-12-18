@@ -1,0 +1,58 @@
+body{
+  background: #eeeeee;
+  border: 5px #b71c1c solid;
+  box-sizing: border-box;
+}
+
+.container{
+  font-family: 'Roboto', sans-serif;
+  width: 500px;
+  height: 400px;
+}
+
+.container .title{
+  margin: 0px;
+  color: #d32f2f;
+  font-size: 60px;
+  font-weight: bolder;
+  text-shadow: 1px 1px 1px #888888;
+  text-align: center;
+}
+
+.container .description{
+  text-align: center;
+  padding: 10px;
+  color: #b71c1c;
+  font-size: 15px;
+  font-weight: bolder;
+  text-shadow: 1px 1px 3px #ccc;
+}
+
+.container button{
+  font-weight: bolder;
+  font-size: 22px;
+  width: 250px;
+  margin-left: 125px;
+}
+
+.container button:hover{
+  color: #fdd835;
+}
+
+.container button:active{
+  color: #fff9c4;
+}
+
+.container .reload{
+  text-align: center;
+}
+
+.container .website{
+  text-align: center;
+}
+
+.container .disclaimer{
+  position: fixed;
+  padding: 10px;
+  bottom: -2px;
+}
