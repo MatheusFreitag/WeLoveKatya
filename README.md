@@ -11,7 +11,7 @@ Simply download it from the <a href="https://chrome.google.com/webstore/detail/w
 
 
 ## How does it work?
-It replaces some of the images loaded in your browser for one picture of Katya. If you are in a progressive loaded page (Like Twitter of Facebook timelines) new images might not be replaced, but you just need to hit the extension button again and the magic will happen.
+It replaces some of the images loaded in your browser for one picture of Katya. If you are in a progressive loaded page (Like Twitter or Facebook timelines) new images might not be replaced, but you just need to hit the extension button again and the magic will happen.
 Want everything back to normal? Reload your page and it is done.
 
 
